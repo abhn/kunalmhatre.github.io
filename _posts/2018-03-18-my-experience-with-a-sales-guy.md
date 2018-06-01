@@ -1,7 +1,7 @@
 ---
 title: "My experience with a sales guy"
 layout: post
-date: 2018-03-18 21:22
+date: 2018-03-18
 headerImage: false
 tag:
 - STORY

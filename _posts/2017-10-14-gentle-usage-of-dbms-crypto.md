@@ -1,7 +1,7 @@
 ---
 title: "Gentle usage of DBMS_CRYPTO"
 layout: post
-date: 2017-10-16 21:47
+date: 2017-10-16
 headerImage: false
 tag:
 - DATABASE

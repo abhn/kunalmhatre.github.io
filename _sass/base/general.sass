@@ -3,11 +3,11 @@ body, html
 
 body
 	line-height: 1
-	font: 16px $fontSans
-	color: $alpha
+	font: 19px $fontPTSans
+	color: $theta
 
 h1, h2, h3, h4
-	font-family: $fontSans
+	font-family: $fontPTSans
 	color: $beta
 	-webkit-font-smoothing: antialiased
 	text-rendering: optimizeLegibility
@@ -33,8 +33,8 @@ a
 
 p
 	line-height: 1.7
-	color: $alpha
-	font-weight: 300
+	color: $theta
+	font-weight: 400
 	margin-bottom: 20px
 	letter-spacing: 0.4px
 
@@ -42,15 +42,16 @@ p
 		letter-spacing: 0.2px
 
 strong
-	font-weight: 400
+	font-weight: 700
 	color: #000
 
 ul,
 ol
 	li
 		line-height: 2.4rem
-		font-weight: 300
-		color: $alpha
+		font-weight: 400
+		color: $theta
+		font-family: $fontSans
 
 img,
 pre,
@@ -95,7 +96,7 @@ code,
 tt
 	padding: 1px 0
 	font-family: $fontMonospace
-	font-size: 12px
+	font-size: 1.15rem
 	line-height: 20px
 	background: #fff
 	border-radius: 2px
@@ -107,7 +108,7 @@ pre
 	width: 100%
 	padding: 5px 10px
 	font-family: $fontMonospace
-	font-size: 1.2rem
+	font-size: 1.15rem
 	line-height: 2rem
 	overflow: auto
 	background: #fff
@@ -131,3 +132,7 @@ pre
 
 .wrapper-large
 	max-width: 810px
+
+.footer-main
+	p
+		font-family: $fontPTSans

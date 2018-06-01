@@ -1,7 +1,7 @@
 ---
 title: "Scary Xiaomi phone(s)"
 layout: post
-date: 2017-11-18 22:44
+date: 2017-11-18
 headerImage: false
 tag:
 - PRIVACY
