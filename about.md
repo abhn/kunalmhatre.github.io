@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
-I am Kunal Mhatre, I live in India and I am a software developer. I love to program, pentest and hack around things. This blog represents non-personal stories about my Life, my personal views on protecting online privacy and sometimes details about my lousy projects.
+Hi, I am Kunal Mhatre, I live in India and I am a software developer. I love to program, pentest and hack around things. This blog represents non-personal stories about my Life, my personal views on protecting online privacy and sometimes details about my lousy projects.
 </p>
 
 ## My story in short
@@ -24,12 +24,11 @@ I worked on too many things and I know that is a bad sign of being a jack of all
 I like visiting seashore in the evenings. I love spending time in the nature and I also like to stare at the night sky, looking for stars. Sounds dramatic, but true. 
 </p>
 
-## Books that I recommend
+## Books that I recommend (non-technical)
 
-- **How to Win Friends and Influence People** by *Dale Carnegie* -- A pure gem. If you find difficult to deal with people, make this your first choice. 
-- **The Power of your Subconscious Mind** *by Joseph Murphy* -- A book which teaches you on how you can make best out of your subconscious mind. It's truly great.
-- **Zero to One** *by Peter Thiel and Blake Masters* -- This book contains quality notes on how to build a successful startup. Do read it if you like startup culture.
+- **How to Win Friends and Influence People** by *Dale Carnegie* -- A pure gem. If you find difficult to deal with people, make this your first choice. It is a bible for true leaders.
+- **Man's Search for Meaning** by *Viktor Frankl* -- Ever wondered what is the meaning of Life? - This book will help you understand it. A great book on psychology.
 
-## Email address
+## My email address
 
 <p>contact@kunalmhatre.com</p>
