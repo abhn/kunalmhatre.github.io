@@ -13,9 +13,9 @@ description: Data collected by Mi phones in the background.
 
 Xiaomi or Mi smartphones are booming a lot nowadays. It's good to see that their phones are cheap and affordable, but if you are more privacy concerned, you may need to give it a second thought before buying it. 
 
-I used two cool packages called, [mitmproxy](https://mitmproxy.org/) and [arpspoof](https://su2.info/doc/arpspoof.php) to intercept traffic on a Mi phone (Redmi 4A) running **MIUI Global 8.5** and observed some activities happening in the background which could harm users' privacy.
+I used two cool packages called, [mitmproxy](https://mitmproxy.org/) and [arpspoof](https://su2.info/doc/arpspoof.php) to intercept traffic on a Mi phone (Redmi 4A) running **MIUI Global 8.5** and observed some background activities which could harm the user's privacy. I followed following video to intercept the traffic: [Sniff the traffic of any device on your network](https://www.youtube.com/watch?v=yLbKhwnc0HY).
 
-***Note**: The values of the parameters shown in the data sent by an API is faked and I have not marked "mac" parameter as red because of the confusion that whether it stands for Message Authentication Code or Wi-Fi's MAC address. Most probably it's the Wi-Fi's MAC address, if it is, then assume that I marked it red as well.*
+***Note**: The values of the parameters shown in the data sent by an API are faked and I have not marked "mac" parameter as red because of the confusion that whether it stands for Message Authentication Code or Wi-Fi's MAC address. Most probably it's the Wi-Fi's MAC address, if it is, then assume that I marked it red as well.*
 
 ## Promoted apps
 
